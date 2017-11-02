@@ -11,4 +11,6 @@ else if (value < 0) {
 else if (value == 0) {
     console.log ("wynik = 0");
 }
-    
+else {
+	console.log("Nieprawidłowe dane");
+}
